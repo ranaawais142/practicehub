@@ -7,6 +7,8 @@ public class main {
 		
 		System.out.println("hy change");
 		System.out.println("hy to all");
+		System.out.println("hy change");
+		System.out.println("hy to all");
 		
 
 	}
